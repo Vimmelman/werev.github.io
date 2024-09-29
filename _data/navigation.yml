@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Om oss"
+    url: /#om-oss
+    blank: false
+  - title: "Kontakt"
+    url: /#kontakt
+    blank: false
+  - title: "Hitta hit"
+    url: /#hittahit
+    blank: false
