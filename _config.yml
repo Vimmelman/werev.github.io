@@ -36,10 +36,10 @@ footer:
   links: # replace the URL's with your own for every link you want to have in your footer.
     - label: "Website"
       icon: "fa fa-globe"
-      url: "https://www.werev.se"
+      # url: "https://www.werev.se"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto: info@werev.se"
+     #  url: "mailto: info@werev.se"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url:
